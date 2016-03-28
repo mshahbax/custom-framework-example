@@ -1,7 +1,7 @@
 <?php
 
 /**
- * TradeTracker App
+ * My App
  *
  * 
  * @version 0.1
