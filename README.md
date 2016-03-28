@@ -38,7 +38,7 @@
 - Parameters : id, LABEL, STREET, HOUSENUMBER, POSTALCODE, CITY, COUNTRY
 - Note: id is required. Atleast one paramerter is required to update otherthan id
 
-## Candidate Information
+## Contact Information
  - Phone : (+971) 50 549 3809
  - Email: mohammadshahbax@gmail.com
  - Linkedin: https://ae.linkedin.com/in/shahbazch
